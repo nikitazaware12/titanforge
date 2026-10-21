@@ -7,7 +7,7 @@ h1,h2,h3{font-family:Sora,'DM Sans',sans-serif;line-height:1.1;letter-spacing:-.
 a{color:inherit;text-decoration:none}img{max-width:100%;display:block}:focus-visible{outline:3px solid var(--lav);outline-offset:2px}
 .w{width:min(1280px,calc(100% - 32px));margin:auto}
 .top{position:sticky;top:0;z-index:60;height:0}
-.nav{position:relative;margin:12px auto 0;width:min(1280px,calc(100% - 24px));display:flex;align-items:center;justify-content:space-between;padding:8px 8px 8px 20px;border-radius:99px;background:#1b2127db;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);color:#fff;box-shadow:0 14px 34px #0004}
+.nav{position:relative;top:12px;margin:0 auto;width:min(1280px,calc(100% - 24px));display:flex;align-items:center;justify-content:space-between;padding:8px 8px 8px 20px;border-radius:99px;background:#1b2127db;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);color:#fff;box-shadow:0 14px 34px #0004}
 .logo{font:800 1.12rem Sora;display:flex;gap:10px;align-items:center}.logo img{width:30px;height:30px}
 .links{display:flex;gap:2px;align-items:center}.links a{padding:9px 15px;border-radius:99px;font-size:.92rem;color:#d6e2ec;transition:.25s}.links a:hover,.links a.on{background:var(--lav);color:var(--ch)}
 .links a.cta{background:#fff;color:var(--p);font-weight:700;margin-left:6px}.links a.cta:hover{background:var(--lav)}
